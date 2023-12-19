@@ -1,0 +1,64 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+#hero {
+    width: 626px;
+    margin: 64px auto 32px;
+    margin-bottom: 32px;
+}
+ 
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-weight: lighter;
+  margin-left: auto;
+}
+ 
+strong {
+  color: #3F3D56;
+}
+
+span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+p, #footer {
+  color: #7d7987;
+  font-size: 15px;
+  line-height: 22px;
+  width: 540px;
+  text-align: center;
+  
+}
+
+#footer a + a{
+    margin-left: 42px;
+
+}
+
+
+.line {
+    width: 568px;
+    height: 0px;
+
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
+
+#Wave {
+  width: 1024px;
+  height: 104px;
+  text-align: center;
+}
+
+#Favicon {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+}
